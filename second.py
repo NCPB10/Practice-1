@@ -1,0 +1,13 @@
+a = [1,2,23,3,4,5,6,7,8]
+for i in a:
+    if i % 2 == 0:
+        print(i, "Even")
+    else:
+        print(i, "Odd")
+
+    
+
+
+
+
+ 
