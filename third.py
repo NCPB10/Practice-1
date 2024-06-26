@@ -1,7 +1,7 @@
-a = 10
-if a % 2 == 0:
-    print(a "is even number")
+b = 27
+if b % 2 == 0:
+    print(b "is even number")
 else:
-    print(a "is odd number")
+    print(b "is odd number")
 
     
