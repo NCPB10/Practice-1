@@ -1,4 +1,4 @@
-list = [1,3,5,7,8,23,56]
+list = [1,3,5,7,8,23,56,27,39]
 for i in list:
     if i % 2 == 0:
         print(i, "even number")
