@@ -1,5 +1,6 @@
 a = 10
 b = 25
+a = 25
 if a % 2 == 0:
     print(a "is even number")
 else:
