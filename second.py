@@ -2,7 +2,7 @@ a = 10
 b = 25
 c= 30
 d= 100
-e = 500
+e = 400
 sum=b+c
 print(sum)
 if a % 2 == 0:
