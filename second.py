@@ -1,6 +1,9 @@
 a = 10
 b = 25
 a = 25
+c= 30
+sum=b+c
+print(sum)
 if a % 2 == 0:
     print(a "is even number")
 else:
