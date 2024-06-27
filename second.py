@@ -1,17 +1,17 @@
 a = 10
 b = 25
-a = 25
-c= 35
+c= 30
 sum=b+c
 print(sum)
 if a % 2 == 0:
-    print(a "is even number")
+    print(a, " is even number")
 else:
-    print(a "is odd number")
+    print(a, " is odd number")
 if b % 2 == 0:
-    print(b "is even number")
+    print(b, " is even number")
 else:
-    print(b "is odd number")
+    print(b, " is odd number")
+ 
 
     
     
