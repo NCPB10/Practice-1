@@ -1,7 +1,7 @@
 a = 10
 b = 25
 a = 25
-c= 30
+c= 35
 sum=b+c
 print(sum)
 if a % 2 == 0:
