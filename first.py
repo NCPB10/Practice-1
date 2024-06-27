@@ -1,4 +1,4 @@
-a = 60
-b = 20
+a = 50
+b = 30
 mult = a*b
 print(mult)
