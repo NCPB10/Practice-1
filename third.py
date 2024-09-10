@@ -1,4 +1,4 @@
-b = 27
+b = 28
 if b % 2 == 0:
     print(b,+"is even number")
 else:

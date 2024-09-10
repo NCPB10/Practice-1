@@ -1,18 +1,12 @@
-a = 10
-b = 25
-c= 30
-d= 100
-e = 400
-sum=b+c
-print(sum)
-if a % 2 == 0:
-    print(a, " is even number")
-else:
-    print(a, " is odd number")
-if b % 2 == 0:
-    print(b, " is even number")
-else:
-    print(b, " is odd number")
+#Even or odd
+list = [2,3,4,5,6,7,8]
+for i in range(len(list)):
+    if list[i]%2==0:
+        print("Even", list[i])
+
+    else:
+        print("odd", list[i])
+        
  
 
     
