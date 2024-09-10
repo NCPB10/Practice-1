@@ -1,7 +1,5 @@
-a = 50
-b = 50
-c = 20
-mult = a*b
-print(mult)
-mult2 = a*b*c
-print(mult2)
+#Addition of two numbers
+a = 10
+b = 20
+sum = a+b
+print('sum of', a,'&', b, 'is', sum)
