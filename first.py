@@ -1,5 +1,5 @@
-a = 20
-b = 30
-print(a+b)
+x = 10
+y = 20
+print(x+y)
 
     
