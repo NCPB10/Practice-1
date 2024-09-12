@@ -4,5 +4,5 @@ print(a+b)
 x = 40
 y = 50
 print(x+y)
-print('learning git')
+print(x+y+5)
     
