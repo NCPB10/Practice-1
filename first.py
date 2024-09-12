@@ -1,5 +1,8 @@
-#Addition of two numbers
-a = 20
-b = 30
-print(a+b)
 
+x = 45
+if x%2 == 0:
+    print('Even',x)
+else:
+    print('odd',x)
+print(x)
+    
