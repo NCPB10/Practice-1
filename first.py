@@ -1,3 +1,8 @@
+x = 10
+y = 20
+x,y = y,x
+print(x,y)
+
 a = 20
 b = 30
 print(a+b)
