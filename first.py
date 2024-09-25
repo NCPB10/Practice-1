@@ -2,14 +2,7 @@ x = 10
 y = 20
 x,y = y,x
 print(x,y)
+print('value of x any',x,y)
 
-a = 20
-b = 30
-print(a+b)
-x = 40
-y = 50
-print(x+y)
-print(x+y+5)
-print('learning git')
 
     
